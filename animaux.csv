@@ -1,0 +1,11 @@
+identifiant,nom,espece,age,poids,enclos,statut_sante
+A001,Lion,Panthera leo,10,150.0,Zone faune sauvage,Bon
+A002,Girafe,Giraffa CameloPandalis,12,1900.0,Zone faune sauvage,Sous surveillance
+A003,Elephant,Elephant savann africain,15,4000.0,Zone faune sauvage,Malade
+A004,Pingouin,adeli,13,50.0,Zone aquatique,Bon
+A005,Hippopotame,Common,14,3000.0,Zone aquatique,Bon
+A006,Singe,Singe du nouveau Monde,14,10.0,Zone tropicale,Bon
+A007,Gorille,Western Gorille,15,200.0,Zone Faune Sauvage,Sous surveillance
+A008,Macaque,Macaque Rhesus,10,5.0,Zone tropicale,Malade
+A009,Lapin,Angora,1,1.0,Zone tropicale,Sous surveillance
+A010,Chevre,Chevre commune,3,20.0,zone tropicale,Sous surveillance
